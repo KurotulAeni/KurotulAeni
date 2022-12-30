@@ -1,5 +1,7 @@
 ### Hi, I'm Kurotul Aeni 👋
-
+### I'm as a Front End Web Developer✨
+### I'm looking to collaborate on git👯
+### I'm lookingHow to reach me instagram:@aeni.kurotul, Gmail:aenikurotul26@gmail.com & Linkedln:kurotul-aeni📫
 <!--
 **KurotulAeni/KurotulAeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
